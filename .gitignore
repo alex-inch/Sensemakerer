@@ -1,0 +1,12 @@
+# This is just a quick hack project, so not implementing a proper API key loading mechanism
+# Ideally this would be in an env variable or gh secret
+api_key
+.DS_Store
+
+# Don't save data
+data/
+.ipynb_checkpoints/
+scraper.ipynb
+*.pkl
+*.jsonl
+*.json
