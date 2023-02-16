@@ -19,3 +19,4 @@ There are two main Jupyter notebooks:
 
 ## Notes
 - Fine-tuning an OpenAI model isn't free: 300 prompt-completion pairs (200-300 tokens ea.) cost me ~$20. If cost is a limiting factor you can train on cheaper models - [pricing info](https://openai.com/api/pricing/)
+- This project, (and the OpenAI API) expect the API key to be saved as `$OPENAI_API_KEY`.
