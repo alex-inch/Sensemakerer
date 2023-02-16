@@ -29,6 +29,8 @@ There are two main Jupyter notebooks:
 Some example outputs from the Sensemakerer (with minor added formatting)
 
 > ### Japan wins big at Olympics
+<details>
+  <summary>Read output</summary>
 
 **Japan wins big at Olympics.** This could become Japan’s gold medal summer. Team Japan struck gold for the first time at the Paralympics in Tokyo on Saturday. There will be further opportunities to pinch their medals at the Winter Olympics, which start next week, and at the World Cup in Qatar in 2022. Then there are the chances to bid for the 2026 World Cup – and win.
 
@@ -44,9 +46,15 @@ The camp was for potential Paralympic players. Nakashima went on to score a hat 
 
 A note on the Japanese team in Doha: there are no quotas or extra funding for the country’s disabled players. They’re all athletes, period, picking themselves to represent the land of the rising sun. Nineteen-year-old Musashi Mizuno already has 10 Paralympic medals, while in the over-16s group the team includes a 72-year-old goalkeeper who used to play for Brazil.
 
-**The samba beat.** In Tokyo last month, Team GB’s Chef de Mission Liz McCollel said the UK was “not in the same league”
+**The samba beat.** In Tokyo last month, Team GB’s Chef de Mission Liz McCollel said the UK was “not in the same league”  
+
+</details>
+
 
 > ### Asteroid lights up sky
+
+<details>
+  <summary>Read output</summary>
 
 **Asteroid lights up sky**. It looks like a point of light. Planet-bound, 400 times the distance between the Earth and the Sun, it’s officially known as asteroid 4569 Belem. Last night, it blazed through the night sky in an unannounced act of celestial performance art: the Space Hopper.
 
@@ -60,7 +68,12 @@ A note on the Japanese team in Doha: there are no quotas or extra funding for th
 - Impulsive berthing, where a spacecraft would suddenly fly to within inches of an asteroid and slowly push it off course.
 - Magnetic sails, which are placed in front of a spacecraft and reflect sunlight onto the asteroid. The sunlight heats the asteroid and boils off some of the small dust particles surrounding it, pushing the main body of the asteroid off
 
+</details>
+
 > ### Tortoise’s Global AI Index shifts narrative
+
+<details>
+  <summary>Read output</summary>
 
 **Tortoise’s Global AI Index shifts narrative.** When the international affairs think tank Tortoise published its AI index last year, there was little reason to suppose it would become one of the most influential new assessments of global progress. But instead, the Global AI Index – or Gaxi for short – quickly became the Rosetta Stone for how to make sense of a staggeringly complex transition from human to digital intelligence.
 
@@ -81,6 +94,8 @@ The index provides a measure of how AI serves top-down (government) or bottom-up
  “moral” risks of entrusting decisions to machines (most notably, data bias and human jobs where human oversight is not possible).
 
 The Gaxi formula works. Low scores correlate strongly with real-world problems, as Tortoise has found in subsequent research. Read on for more detail
+
+</details>
 
 ## Notes
 - Fine-tuning an OpenAI model isn't free: 300 prompt-completion pairs (200-300 tokens ea.) cost me ~$20. If cost is a limiting factor you can train on cheaper models - [pricing info](https://openai.com/api/pricing/)
