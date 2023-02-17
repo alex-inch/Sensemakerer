@@ -1,7 +1,7 @@
 # Sensemakerer
 Fine-tuning GPT-3 to write newsletters
 
-- [The Sensemakerer](#the-sensemakerer)
+- [Sensemakerer](#sensemakerer)
   - [About the Project](#about-the-project)
   - [Files](#files)
     - [`data_production.ipynb`](#data_productionipynb)
