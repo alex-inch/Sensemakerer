@@ -1,5 +1,4 @@
 # Sensemakerer
-Fine-tuning GPT-3 to write newsletters
 
 - [Sensemakerer](#sensemakerer)
   - [About the Project](#about-the-project)
